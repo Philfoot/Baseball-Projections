@@ -1,0 +1,6 @@
+Python Project to play around with scikit and random forests
+
+Data comes from the amazing pybaseball package
+The importing has been done and a csv file saved for convenience
+
+Built in Jupyter Notebook
